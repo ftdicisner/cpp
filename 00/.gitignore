@@ -1,0 +1,6 @@
+ex**/build/**
+ex**/build
+ex**/test
+ex00/megaphone
+ex**/*.out
+ex**/*.log
